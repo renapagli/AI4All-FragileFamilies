@@ -70,7 +70,7 @@ Each variable in the data has a dictionary of features associated with it, such 
 - Open a terminal by clicking on the Spotlight Search (magnifying glass icon) on the upper right corver of the desktop, entering "Terminal", and pressing enter. 
 
 - Point to the "Fragile_Families" folder
-  `cd Fragile_Families`
+  `cd Desktop/Fragile_Families`
 
 - To run a Jupyter notebook:
 
