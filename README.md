@@ -72,8 +72,6 @@ Each variable in the data has a dictionary of features associated with it, such 
 - Point to the "Fragile_Families" folder
   `cd Fragile_Families`
 
-  `git clone https://github.com/agataf/ai4all`
-
 - To run a Jupyter notebook:
 
   `source ~/miniconda3/bin/activate`
