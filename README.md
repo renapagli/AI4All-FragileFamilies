@@ -57,6 +57,8 @@ Each variable in the data has a dictionary of features associated with it, such 
 
 - Inside this folder, create two new folders with the names "ff_data" and "ff_notebooks".
 
+- Download the zip file containing the Jupyter notebook for the day from https://github.com/renapagli/AI4All-FragileFamilies/
+
 - Open a terminal by clicking on the Spotlight Search (magnifying glass icon) on the upper right corver of the desktop, entering "Terminal", and pressing enter. 
 
 - Point to the "Fragile_Families" folder
