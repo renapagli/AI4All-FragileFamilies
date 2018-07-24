@@ -22,15 +22,21 @@ More information:
 
   http://www.fragilefamilies.princeton.edu/
   
-Documentation:
+Fragile Families Documentation:
 
   https://fragilefamilies.princeton.edu/documentation
+
+Fragile Families Challenge:
+  http://www.fragilefamilieschallenge.org/
   
-Watch the "getting started" video:
+Fragile Families Challenge Blog:
+  http://www.fragilefamilieschallenge.org/blog-posts/
+  
+Fragile Families Challenge "getting started" video:
 
   https://www.youtube.com/watch?v=HrYPtdXeSaM&feature=youtu.be
   
-See the "getting started" slides here:
+Fragile Families Challenge "getting started" slides:
 
   https://github.com/fragilefamilieschallenge/slides/blob/master/ffchallenge_getting_started_cos424.pdf
   
@@ -58,6 +64,8 @@ Each variable in the data has a dictionary of features associated with it, such 
 - Inside this folder, create two new folders with the names "ff_data" and "ff_notebooks".
 
 - Download the zip file containing the Jupyter notebook for the day from https://github.com/renapagli/AI4All-FragileFamilies/
+
+- Extract the zip file and save the .ipynb file in the "ff_notebooks" folder.
 
 - Open a terminal by clicking on the Spotlight Search (magnifying glass icon) on the upper right corver of the desktop, entering "Terminal", and pressing enter. 
 
